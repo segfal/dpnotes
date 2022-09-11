@@ -4,7 +4,7 @@
 A collection of leetcode problems solved using dynamic programming
 These are not my solutions, but solutions built by github copilot
 
-$$\LARGE  f_n=f_{n-1} + f_{n-2} $$
+$$ \LARGE  f_n=f_{n-1} + f_{n-2} $$
 
 
 ```cpp
